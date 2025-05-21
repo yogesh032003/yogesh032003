@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh032003&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh032003" /> </p>
 
-- 🔭 I’m currently working on [Weather App](https://github.com/yogesh032003/Weather-app)
-
 - 🌱 I’m currently learning **React.Js , Node.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yogesh032003](https://github.com/yogesh032003)
